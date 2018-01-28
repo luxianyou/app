@@ -2,20 +2,7 @@
 - 采用Flask
 - 学习使用
 <br>
-**项目结构**
-<br>
-```
-app
-├─apputil 通用文件包
-├─conf 配置文件
-├─data 数据文件
-├─flask 依赖包
-├─README.md
-
-```
-<br>
-
- **软件需求**
+**软件需求**
 - Python3.6
 - Flask
 - mysql
@@ -39,3 +26,15 @@ app
 
 **服务启动**
 - ./app.py
+
+**项目结构**
+```
+app
+├─apputil 通用文件包
+├─conf 配置文件
+├─data 数据文件
+├─flask 依赖包
+├─README.md
+
+```
+<br>
