@@ -3,6 +3,7 @@
 - 学习使用
 <br>
 **项目结构**
+<br>
 ```
 app
 ├─apputil 通用文件包
@@ -10,6 +11,7 @@ app
 ├─data 数据文件
 ├─flask 依赖包
 ├─README.md
+
 ```
 <br>
 
