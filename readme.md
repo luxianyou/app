@@ -7,8 +7,6 @@
 - Flask
 - mysql
 
-<br>
-
 **依赖安装**
 - flask虚拟环境:python3 -m venv flask
 - flask/bin/pip3 install flask
@@ -37,4 +35,3 @@ app
 ├─README.md
 
 ```
-<br>
