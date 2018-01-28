@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3
 import requests
 import uuid
 r = requests.get('https://api.github.com/user', auth=('luxianyou', 'SSYyly@5201314'))
