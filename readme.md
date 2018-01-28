@@ -3,6 +3,7 @@
 - 学习使用
 <br>
 **软件需求**
+
 - Python3.6
 - Flask
 - mysql
